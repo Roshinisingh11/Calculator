@@ -1,0 +1,32 @@
+#Calculator {
+  border: 1px solid #3B1E54 ;
+  border-radius: 5px;
+  width: 250px;
+  background-color: #D4BEE4;
+  
+}
+
+#display {
+  margin: 15px;
+  width: 200px;
+  height: 30px;
+  border: solid black;
+  border-radius: 5px;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  background-color: #9B7EBD;
+  color: #EEEEEE;
+  border-radius: 5px;
+}
+
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
